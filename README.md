@@ -1,2 +1,2 @@
 # vmapp - App
-> Business Application
+> Business Application notification
